@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.products-details-container {
+  width: 85%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.itembtn {
+  background-color: #ffffff;
+  cursor: pointer;
+  outline: none;
+  border: none;
+}
+
+.icon {
+  font-size: 24px;
+  font-weight: bold;
+  color: #1e293b;
+}
